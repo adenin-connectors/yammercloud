@@ -1,0 +1,8 @@
+ServiceName: 'myfeed'
+InterfaceName: 'items'
+Description: 'My Feed'
+APIDoc: ''
+Interfaces: 'daterange'
+RequiredScopes: ''
+AdditionalParameters:
+Method: ''
